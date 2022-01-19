@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^8.0.0-rc.2",
+    "playwright": "^1.17.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "start": "cucumber-js"
+  }
+}
